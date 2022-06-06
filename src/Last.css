@@ -1,0 +1,25 @@
+.a{
+    width: 30vw;
+    height: 40vh;
+    background-color: aquamarine;
+    position: relative;
+    left: 100%;
+}
+.lefta{
+    position: absolute;
+    left: 0;
+    height: 40%;
+    font-size: 2rem;
+    color: brown;
+}
+.matna{
+    height: 25%;
+    padding-top: 2rem;
+}
+.btn{
+    margin-top: 3rem;
+}
+.bb{
+    margin-top: 3rem;
+    background-color: cadetblue;
+}

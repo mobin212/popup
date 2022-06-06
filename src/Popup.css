@@ -1,0 +1,53 @@
+.hold {
+    display: flex;
+    justify-content: center;
+    background-color: darkgrey;
+    width: 60%;
+    position: relative;
+    height: 16rem;
+}
+
+.left{
+    font-size: 2rem;
+    color: brown;
+    position: absolute;
+    left:-.3rem;
+    top: 40%;
+}
+
+.right{
+    position: absolute;
+    font-size: 2rem;
+    color: brown;
+    top: 40%;
+    right: 0;
+}
+.matn{
+    width: 30%;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    /* padding-left: 8rem; */
+}
+.tasvir{
+    margin-left: 5rem;
+    background-color: blueviolet;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.sh{
+    display: flex;
+    position: absolute;
+    top: 100%;
+}
+span{
+    margin-left: 10%;
+}
+.col{
+    color: blue;
+    background-color: crimson;
+    border-radius: 40%;
+    font-size: 1.5rem;
+}
